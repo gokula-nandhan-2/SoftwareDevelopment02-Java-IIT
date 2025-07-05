@@ -13,13 +13,24 @@ public class Question1 {
             System.out.println(i);
             i+=1;
         }
+        System.out.println("\n");
 
         //Q2
         for(int j=0; j < 15; j+=2){
-            if(i == 6){
+            if(j == 6){
                 continue;
             }System.out.println(j);
+        }
+        System.out.println("\n");
 
+        int j = 0;
+        while(j < 15){
+            if(j == 6){
+                j+=2;
+                continue;
+            }
+            System.out.println(j);
+            j+=2;
         }
     }
 }
