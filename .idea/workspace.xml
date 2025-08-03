@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00817a4a-512b-4c55-b029-10e4da684467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tutorial04/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial04/Question06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +37,11 @@
     "Application.Question03.executor": "Run",
     "Application.Question04.executor": "Run",
     "Application.Question05.executor": "Run",
+    "Application.Question06.executor": "Run",
     "Application.Question07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Tutorial04",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
