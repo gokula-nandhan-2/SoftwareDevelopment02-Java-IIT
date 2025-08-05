@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00817a4a-512b-4c55-b029-10e4da684467" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tutorial04/Section02/Exercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial04/Section02/Question07MarkAdjustment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial04/Question07.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial04/Section01/Question07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exercise06.executor": "Run",
     "Application.Question01.executor": "Run",
     "Application.Question02.executor": "Run",
     "Application.Question03.executor": "Run",
@@ -39,6 +49,7 @@
     "Application.Question05.executor": "Run",
     "Application.Question06.executor": "Run",
     "Application.Question07.executor": "Run",
+    "Application.Question07MarkAdjustment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Tutorial04",
