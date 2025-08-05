@@ -1,4 +1,4 @@
-package Tutorial04;
+package Tutorial04.Section01;
 
 public class Question06 {
     public static void main(String[] args){

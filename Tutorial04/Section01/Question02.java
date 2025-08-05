@@ -1,4 +1,4 @@
-package Tutorial04;
+package Tutorial04.Section01;
 import java.util.Arrays;
 import java.util.Scanner;
 
