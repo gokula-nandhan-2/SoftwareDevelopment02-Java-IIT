@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00817a4a-512b-4c55-b029-10e4da684467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tutorial04/Section02/Question1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial04/Section02/Question12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/Tutorial04/Section02/Question09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/softwareDevelopment02-Java_IIT/Tutorial04/Section02/Question09.class" afterDir="false" />
-    </list>
+    <list default="true" id="00817a4a-512b-4c55-b029-10e4da684467" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +56,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gokul\Projects\SoftwareDevelopment02-Java-IIT\SoftwareDevelopment02-Java-IIT\Tutorial04" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
